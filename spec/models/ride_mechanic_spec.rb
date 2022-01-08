@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe Ride do
+describe RideMechanic do
   describe 'relationships' do
   end
 end
